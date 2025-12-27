@@ -1,6 +1,6 @@
 # 4z API: 2025 全球主流 AI 大模型高速聚合平台 (OpenAI/Claude/DeepSeek)
 
-[![Website](https://img.shields.io/badge/官网-4z_API-blue)](https://你的域名)
+[![Website](https://img.shields.io/badge/官网-4z_API-blue)](https://4zapi.com)
 [![Status](https://img.shields.io/badge/状态-在线-brightgreen)]()
 [![Update](https://img.shields.io/badge/更新-2025年12月-orange)]()
 
